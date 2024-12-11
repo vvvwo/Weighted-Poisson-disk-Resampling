@@ -1,6 +1,6 @@
 # *Weighted Poisson-disk Resampling on Large-Scale Point Clouds*
 
-Created by X.Jiao and C. Lv. The paper is accepted by AAAI.
+Created by X. Jiao and C. Lv. The paper is accepted by AAAI.
 
 ![image](https://github.com/user-attachments/assets/421cf13e-778d-487c-aae7-9a8b6e09edca)
 
