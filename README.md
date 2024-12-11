@@ -20,15 +20,15 @@ If you find our work useful in your research, please consider citing:
      }
 
 ## Implementation
-This project is implemented by VS2019, C++.
+This project is implemented by VS2022, C++.
 
 The addtional libiary should be included:
 
 PCL library 1.8.1
 
-CGAL libiary
+VCG library
 
-OpenGL: freeglut64
+OpenCV 3.3
 
 ## Update
 
