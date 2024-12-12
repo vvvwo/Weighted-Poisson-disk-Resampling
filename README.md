@@ -20,15 +20,15 @@ If you find our work useful in your research, please consider citing:
      }
 
 ## Implementation
-This project is implemented by VS2022, C++.
+This project is implemented by VS2022, C++. We release the whole project. You can change the set based on our instance.
 
-The addtional libiary should be included:
+Addtional libiaries should be included:
 
-PCL library 1.8.1
+PCL library 1.13.1: https://github.com/PointCloudLibrary/pcl/releases/tag/pcl-1.13.1-rc1
 
-VCG library
+VCG library: https://github.com/cnr-isti-vclab/vcglib
 
-OpenCV 3.3
+OpenCV 3.4.6: https://github.com/opencv/opencv/releases/tag/3.4.6
 
 ## Update
 
