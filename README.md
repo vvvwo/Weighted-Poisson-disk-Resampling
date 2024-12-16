@@ -15,7 +15,7 @@ If you find our work useful in your research, please consider citing:
      @article{Jiao2025wpd,
          title={Weighted Poisson-disk Resampling on Large-Scale Point Clouds},
          author={Xianhe Jiao, Chenlei Lv, Junli Zhao, Ran Yi, Yu-Hui Wen, Zhenkuan Pan, Zhongke Wu, Yong-jin Liu}
-         journal={arXiv preprint arXiv:XXXXXXXX},
+         journal={arXiv preprint arXiv:2412.09177},
          year={2025}
      }
 
