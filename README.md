@@ -30,7 +30,7 @@ VCG library: https://github.com/cnr-isti-vclab/vcglib
 
 OpenCV 3.4.6: https://github.com/opencv/opencv/releases/tag/3.4.6
 
-Note: youe can use WPDEXE to resample point clouds directly. Pls add the "opencv_world346.dll" into the file folder for program running.
+Note: you can use WPDEXE to resample point clouds directly. Pls add the "opencv_world346.dll" into the file folder for program running.
 
 ## Update
 2024/12/13 The exe files are uploaded. 
